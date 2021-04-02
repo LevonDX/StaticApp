@@ -1,0 +1,27 @@
+C:\Users\CLevo\source\repos\ProductsBlazorApp\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\CLevo\source\repos\ProductsBlazorApp\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\CLevo\source\repos\ProductsBlazorApp\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\CLevo\source\repos\ProductsBlazorApp\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Users\CLevo\source\repos\ProductsBlazorApp\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\CLevo\source\repos\ProductsBlazorApp\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\CLevo\source\repos\ProductsBlazorApp\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\CLevo\source\repos\ProductsBlazorApp\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\CLevo\source\repos\ProductsBlazorApp\Data\obj\Debug\netstandard2.0\Data.pdb
+C:\Users\CLevo\OneDrive\Presentations\.Net Yerevan days 2021\ProductsBlazorApp\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\CLevo\OneDrive\Presentations\.Net Yerevan days 2021\ProductsBlazorApp\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\CLevo\OneDrive\Presentations\.Net Yerevan days 2021\ProductsBlazorApp\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\CLevo\OneDrive\Presentations\.Net Yerevan days 2021\ProductsBlazorApp\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Users\CLevo\OneDrive\Presentations\.Net Yerevan days 2021\ProductsBlazorApp\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\CLevo\OneDrive\Presentations\.Net Yerevan days 2021\ProductsBlazorApp\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\CLevo\OneDrive\Presentations\.Net Yerevan days 2021\ProductsBlazorApp\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\CLevo\OneDrive\Presentations\.Net Yerevan days 2021\ProductsBlazorApp\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\CLevo\OneDrive\Presentations\.Net Yerevan days 2021\ProductsBlazorApp\Data\obj\Debug\netstandard2.0\Data.pdb
+C:\Users\lehovhan\OneDrive\Presentations\Optym 2021\Presentation 2 - April\StaticBlazorTest\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\lehovhan\OneDrive\Presentations\Optym 2021\Presentation 2 - April\StaticBlazorTest\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\lehovhan\OneDrive\Presentations\Optym 2021\Presentation 2 - April\StaticBlazorTest\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\lehovhan\OneDrive\Presentations\Optym 2021\Presentation 2 - April\StaticBlazorTest\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Users\lehovhan\OneDrive\Presentations\Optym 2021\Presentation 2 - April\StaticBlazorTest\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\lehovhan\OneDrive\Presentations\Optym 2021\Presentation 2 - April\StaticBlazorTest\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\lehovhan\OneDrive\Presentations\Optym 2021\Presentation 2 - April\StaticBlazorTest\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\lehovhan\OneDrive\Presentations\Optym 2021\Presentation 2 - April\StaticBlazorTest\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\lehovhan\OneDrive\Presentations\Optym 2021\Presentation 2 - April\StaticBlazorTest\Data\obj\Debug\netstandard2.0\Data.pdb

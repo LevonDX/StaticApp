@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProductsFunctions": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --cors *"
+    }
+  }
+}
